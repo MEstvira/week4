@@ -1,0 +1,43 @@
+table{
+	width:700px;
+	height:400px;
+	border:#000;
+	margin: auto;
+	border: solid 1px #000;
+}
+td,th{
+	border:solid 1px #000;
+}
+tfoot{
+	text-align: center;
+	font-size:30px;
+}
+tfoot td{
+	background-color:green;
+	height:30px;
+}
+.border1 {
+	width:1100px;
+	background-color:#8080806b;
+}
+.row1{
+	background-color:rgb(255,0,0);
+}
+.row2{
+	background-color:#fff;
+}
+.row4{
+	background-color:rgb(0,0,255)
+}
+.cell1{
+	background-color:rgb(0,255,0)
+}
+.table9 thead tr td{
+	height:40px;
+	
+}
+.foot{
+	background-color:#fff;
+	font-size:16px;
+	text-align:left;
+}
